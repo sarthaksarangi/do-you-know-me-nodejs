@@ -5,5 +5,5 @@
  
  To run on your local machine:
  1. Install node
- 2. Install readline-sync run cmd : npm i readline-sync
- 3. To run use cmd : node index.js
+ 2. Install readline-sync run cmd : ```npm i readline-sync```
+ 3. To run use cmd : ```node index.js```
